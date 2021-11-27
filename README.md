@@ -1,0 +1,1 @@
+Pawned and owned framework is a web application based on sharing data dump from different sources such as pastebin, sharing sites and dark web dump so that the organization can be alerted of compromised information found in those breaches.
