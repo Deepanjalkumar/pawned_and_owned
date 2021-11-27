@@ -4,4 +4,14 @@ Pawned and owned framework is a web application based on sharing data dump from 
 
 # Installation :
 
-                    git clone 
+                    git clone https://github.com/Deepanjalkumar/pawned_and_owned.git
+                    
+                    cd pawned_and_owned
+                    
+                    pip3 install -r requirements.txt
+                    
+ # Usage : 
+ 
+                    uvicorn api:app --reload
+
+                    python3 manage.py runserver 8001
